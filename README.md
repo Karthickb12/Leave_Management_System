@@ -1,3 +1,4 @@
+
 <div align="center">
   <h1>🎓 EduFlow - Leave Management System</h1>
   <p>A centralized system for managing student OD, Leave, and Permission requests with a smart, multi-level approval workflow.</p>
@@ -17,6 +18,8 @@
 <div align="center">
   <img width="49%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/4aec4e49-17b0-4730-89f1-464ba99c8323" />
   <img width="49%" alt="Screenshot 2" src="https://github.com/user-attachments/assets/9d4dd751-a911-4cec-9eec-da7dfc87d9e9" />
+<img width="1906" height="909" alt="Screenshot 2026-05-02 102140" src="https://github.com/user-attachments/assets/430b9cb6-80ee-409e-ab98-8dbf8d198a24" />
+
 
 </div>
 
