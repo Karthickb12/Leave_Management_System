@@ -13,10 +13,18 @@
 <br />
 
 ## 📸 Screenshots
-*(Save your images to a `screenshots` folder and update the paths below!)*
-| Login | Student Dashboard | New Request |
-| :---: | :---: | :---: |
-| <img src="./screenshots/login.png" width="300"/> | <img src="./screenshots/dashboard.png" width="300"/> | <img src="./screenshots/request.png" width="300"/> |
+
+<div align="center">
+  <img width="49%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/4aec4e49-17b0-4730-89f1-464ba99c8323" />
+  <img width="49%" alt="Screenshot 2" src="https://github.com/user-attachments/assets/9d4dd751-a911-4cec-9eec-da7dfc87d9e9" />
+  <img width="49%" alt="Screenshot 3" src="https://github.com/user-attachments/assets/e6b7a899-6e86-455a-89d4-ab9481c7babb" />
+  <img width="49%" alt="Screenshot 4" src="https://github.com/user-attachments/assets/4977276b-a9a4-4e32-a76c-d93f05905142" />
+  <img width="49%" alt="Screenshot 5" src="https://github.com/user-attachments/assets/efe776d5-a520-4245-8913-ef2f547691e5" />
+  <img width="49%" alt="Screenshot 6" src="https://github.com/user-attachments/assets/619b0f43-5d6c-4021-9de3-708876a40e4c" />
+  <img width="49%" alt="Screenshot 7" src="https://github.com/user-attachments/assets/ad44f119-7195-494c-a8c9-eec5bce9bb46" />
+  <img width="49%" alt="Screenshot 8" src="https://github.com/user-attachments/assets/70d3b54a-4341-4ddc-a854-5f7b4296c31e" />
+  <img width="49%" alt="Screenshot 9" src="https://github.com/user-attachments/assets/5df1c348-cc9f-4315-bc9f-c09972c8cb01" />
+</div>
 
 ---
 
